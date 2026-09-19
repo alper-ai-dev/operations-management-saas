@@ -1,0 +1,1 @@
+import './style.css';export const metadata={title:'Orbit — Operations OS',description:'Full-stack operations management SaaS portfolio project'};export default function Layout({children}){return <html lang="en"><body>{children}</body></html>}
